@@ -20,10 +20,10 @@ main:
     url: /publications/    
 
   - title: "Grants"
-    url: /teaching/
+    url: /markdown/
     
   - title: "Honors"
-    url: /teaching/
+    url: /markdown/
     
   - title: "Teaching"
     url: /teaching/    
