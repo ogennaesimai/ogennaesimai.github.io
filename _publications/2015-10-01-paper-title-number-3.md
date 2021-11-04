@@ -1,15 +1,23 @@
 ---
-title: "Paper Title Number 3"
+title: "The Broad Spectrum Inhibitory Activity of a _Streptococcus pneumoniae_ Strain is Mediated by Pneumocins Which Can Be Purified"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2010-StrepPneumoASM
+excerpt: 'This publication is about the characteristics of a strain of the bacterium _Streptococcus pneumoniae_ that enable it to thrive in the competitive nasopharyngeal environment.'
+date: 2010
+venue: 'American Society for Microbiology (ASM) 110th General Meeting, San Diego, CA. May 2010. 10-GM-A-2941-ASM. May 23-27.'
+paperurl: 'https://asm.org/'
+citation: 'O. Esimai, M. Shchepetov, J. Weiser, S. Dawid. (2010) Abstract. “The Broad Spectrum Inhibitory Activity of a _Streptococcus pneumoniae_ Strain is Mediated by Pneumocins Which Can Be Purified.” American Society for Microbiology (ASM) 110th General Meeting, San Diego, CA. May 2010. 10-GM-A-2941-ASM.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This publication is about the characteristics of a strain of the bacterium _Streptococcus pneumoniae_ that enable it to thrive in the competitive nasopharyngeal environment.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download here](https://asm.org/)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: 
+
+    @conference{tbsiaoaspsimbpwcbpASM2010,
+    author    = "O. Esimai and M. Shchepetov and J. Weiser and S. Dawid",
+    title = "The Broad Spectrum Inhibitory Activity of a {_Streptococcus pneumoniae_} Strain is Mediated by Pneumocins Which Can Be Purified",
+    booktitle = "Poster Presentation, American Society for Microbiology (ASM) 110th General Meeting, San Diego, CA. May 2010. 10-GM-A-2941-ASM.",
+    year      = "2010",
+    }
+
