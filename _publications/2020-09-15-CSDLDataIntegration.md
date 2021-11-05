@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-09-15-CSDLDataIntegration
 excerpt: 'This work is about integrating bioinformatics data using deep learning, a subset of machine learning, a subset of artificial intelligence.'
 date: 2020-09-15
-venue: 'ACM Richard Tapia Celebration of Diversity in Computing, September 16 - 19, 2020, virtual. Doctoral Consortium.'
+venue: 'ACM Richard Tapia Celebration of Diversity in Computing, September 16 - 19, 2020, virtual. Doctoral Consortium (This conference did not have a Proceedings at the time of the conference. Therefore, this work was peer-reviewed, accepted, and presented but may be absent from any published bibliography)'
 paperurl: 'http://tapiaconference.cmd-it.org/wp-content/uploads/2021/02/TAPIA-2020-program-v11.pdf'
 citation: 'Ogenna Esimai and Jean Gao. (2020) Integration of Bioinformatics Data Using Deep Learning. ACM Richard Tapia Celebration of Diversity in Computing, September 16 - 19, 2020, virtual. Doctoral Consortium. Accepted.'
 ---
