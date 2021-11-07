@@ -19,14 +19,14 @@ main:
   - title: "Publications"
     url: /publications/    
 
-  - title: "Grants"
-    url: /markdown/
+  - title: # "Grants"
+    url: # /markdown/
     
-  - title: "Honors"
-    url: /markdown/
+  - title: # "Honors"
+    url: # /markdown/
     
-  - title: "Teaching"
-    url: /teaching/    
+  - title: # "Teaching"
+    url: # /teaching/    
     
   - title: "CV"
     url: /cv/
